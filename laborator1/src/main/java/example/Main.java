@@ -4,6 +4,6 @@ package example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Hello and welcome! Stii sa folosesti github :)");
+        System.out.printf("Hello and welcome! ");
     }
 }
